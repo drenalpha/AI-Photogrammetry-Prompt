@@ -14,7 +14,7 @@ Unlike rigid AR apps that require specific calibration cards, this framework all
 
 Standard computer vision requires strict, pre-programmed reference objects. This prompt breaks that limitation by leveraging the AI's vast knowledge base. 
 
-If you take a photo of an unknown object next to a water bottle, you don't need a ruler. You just tell the AI: *"The water bottle is 1 Liter."* The AI automatically estimates the physical dimensions of that specific bottle volume, establishes a pixel-to-cm baseline, calculates the depth difference between the bottle and your target object, and delivers an approximate measurement.
+**If you take a photo of an unknown object next to a water bottle, you don't need a ruler. You just tell the AI: *"The water bottle is 1 Liter."* The AI automatically estimates the physical dimensions of that specific bottle volume, establishes a pixel-to-cm baseline, calculates the depth difference between the bottle and your target object, and delivers an approximate measurement.**
 ---
 
 ## 🛠️ How It Works (The Spatial Pipeline)
