@@ -10,6 +10,7 @@ Unlike rigid AR apps that require specific calibration cards, this framework all
 ---
 
 ## 🚀 The Core Breakthrough: "Bring Your Own Anchor."
+---
 
 Standard computer vision requires strict, pre-programmed reference objects. This prompt breaks that limitation by leveraging the AI's vast knowledge base. 
 
